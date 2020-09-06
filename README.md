@@ -1,8 +1,3 @@
-### Hi 👋
-
-<!--
-**Lostsoul-namespace/Lostsoul-namespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi， 我是傅显荣，A FZUer，预计2022年毕业。
 
 我会C，C++，一点点的Python（自学），现在正计划学习Java...
